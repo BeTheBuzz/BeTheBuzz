@@ -24,7 +24,7 @@ Scripts are provided as-is. Always preview and test in your own account before s
 ## Contact
 
 - Website: [bethebuzz.co](https://bethebuzz.co)
-- Email: hub@bethebuzz.co
+- Email: grow@bethebuzz.co
 - [LinkedIn](https://www.linkedin.com/company/bethebuzzmarketing) | [YouTube](https://www.youtube.com/@BetheBuzzCo)
 
 Want help with your accounts? Reach out through our website.
